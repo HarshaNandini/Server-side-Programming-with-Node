@@ -1,0 +1,7 @@
+updated in promises
+updated in async-await
+async writing line
+updated in promises
+hello async dear!
+
+a last async line
